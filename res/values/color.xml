@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sliding_menu">#644E2D</color>
+    <color name="main_bg">#F1E9DD</color>
+    <color name="dark_text_color">#2D1C03</color>
+    <color name="light_text_color">#F1E9DD</color>
+    <color name="selected_slider_item_color">#AE936A</color>
+
+</resources>

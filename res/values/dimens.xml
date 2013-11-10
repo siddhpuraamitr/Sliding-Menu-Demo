@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="sliding_text_size">18sp</dimen>
+    <dimen name="extra_small">5dp</dimen>
+    <dimen name="small">7dp</dimen>
+    <dimen name="medium">10dp</dimen>
+    <dimen name="large">15dp</dimen>
+    <dimen name="extra_large">20dp</dimen>
+
+</resources>

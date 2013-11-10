@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">slidingdemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tab_two">Two</string>
+    <string name="tab_five">Five</string>
+    <string name="tab_three">Three</string>
+    <string name="tab_one">One</string>
+    <string name="tab_four">Four</string>
+
+</resources>
